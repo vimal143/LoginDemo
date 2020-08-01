@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="welcome_to_admin_panel">Welcome To Admin Panel</string>
+    <string name="Slogan">Dream Comes True</string>
+    <string name="tagLine">Dream with Open Eyes and Put all you Efforts to make it come true</string>
+    <string name="login">Login</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="signup">Create Account</string>
+    <string name="next">Next</string>
+    <string name="create_account">Create Account</string>
+    <string name="password">Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="_200_wali_mithai">200 wali mithai</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="signupbtn">signup</string>
+    <string name="verification">Verification</string>
+    <string name="co_nde">Co\nde</string>
+    <string name="verify_code">Verify Code</string>
+    <string name="enter_otp_send_to_917388900242">Enter OTP send to +917388900242</string>
+</resources>
